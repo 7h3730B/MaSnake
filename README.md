@@ -1,2 +1,2 @@
 # 7hSnake
-A little snake game from my friend
+A little snake game made by my friend
